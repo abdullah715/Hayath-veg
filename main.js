@@ -3,7 +3,7 @@ window['google'] = {};
 }
 if (!window['google']['loader']) {
 window['google']['loader'] = {};
-google.loader.ServiceBase = 'trans.js';
+google.loader.ServiceBase = 'transliteration.I.js';
 google.loader.GoogleApisBase = 'https://ajax.googleapis.com/ajax';
 google.loader.ApiKey = 'notsupplied';
 google.loader.KeyVerified = true;
